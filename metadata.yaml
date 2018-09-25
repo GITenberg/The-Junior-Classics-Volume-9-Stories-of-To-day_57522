@@ -1,5 +1,5 @@
 _repo: The-Junior-Classics-Volume-9-Stories-of-To-day_57522
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Neilson, William Allan
@@ -12,6 +12,9 @@ contributor:
   - agent_name: Eliot, Charles W.
     gutenberg_agent_id: '49441'
     url: http://www.gutenberg.org/2009/agents/49441
+covers:
+- cover_type: archival
+  image_path: 57522-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57522#The-Junior-Classics-Volume-9-Stories-of-To-day
 gutenberg_issued: '2018-07-16'
 gutenberg_type: Text
 identifiers:
